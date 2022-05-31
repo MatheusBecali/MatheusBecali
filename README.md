@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: Instagram @matheusbecali
 
-I`m a student, focused on studies and tuned in technology. He is currently focused on his scientific initiation, Introduction to optimization applied to supervised machine learning, in which he is a fellow at FAP.
-Always learning how to improve his knowledge.
+Student, focused on studies and technology. He is currently undertaking a master's degree in computer science with photo in Deep Learning, with the aim of collecting and studying data from histopathological and clinical skin lesions.
+He always seeks learning to improve his knowledge.
 
-"Risk comes from not knowing what you're doing." - (Warren Buffet) 
+“Risk comes from not knowing what you're doing.” — (Warren Buffet)
 
 <!---
 MatheusBecali/MatheusBecali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
