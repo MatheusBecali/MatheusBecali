@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: Instagram @matheusbecali
 
-Student, focused on studies and technology. He is currently undertaking a master's degree in computer science with photo in Deep Learning, with the aim of collecting and studying data from histopathological and clinical skin lesions.
-He always seeks learning to improve his knowledge.
+Student, focused on studies and technology. Currently undertaking a master's degree in computer science with photo in Deep Learning, with the aim of collecting and studying data from histopathological and clinical skin lesions. Always seeks learning to improve his knowledge.
 
 “Risk comes from not knowing what you're doing.” — (Warren Buffet)
 
