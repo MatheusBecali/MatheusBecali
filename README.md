@@ -34,6 +34,6 @@ Student, focused on studies and technology. Always seeks learning to improve his
 ### 💌 Find me: ⤵️
 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/matheus-becali-rocha)](www.linkedin.com/in/matheus-becali-rocha)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-becali-rocha)](https://www.linkedin.com/in/matheus-becali-rocha)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusbecali@gmail.com)](mailto:matheusbecali@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheusbecali)](https://www.instagram.com/matheusbecali)
