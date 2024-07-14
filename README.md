@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Hi, I’m <strong>Matheus Becali</strong>, B.Sc. in Industrial Mathematics. Currently undertaking a <strong>master's degree</strong> in computer science with photo in <strong>Deep Learning</strong>, with the aim of collecting and studying data from histopathological and clinical skin lesions.
-Student, focused on studies and technology. Always seeks learning to improve his knowledge.
+Hi, I’m <strong>Matheus Becali</strong>, B.Sc. in Industrial Mathematics and <strong>Master's<strong> in Computer Science with a focus on <strong>Deep Learning<strong>. My research aims to collect and study data from histopathological and clinical skin lesions.
+
+I am a dedicated student, focused on studies and technology, always seeking to improve my knowledge through continuous learning.
 
 “Risk comes from not knowing what you're doing.” — (Warren Buffet)
 </p>
