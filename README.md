@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+![Header](./github-header-image.png)
 
 <p align="left"> 
 Hi, I’m <strong>Matheus Becali</strong>, B.Sc. in Industrial Mathematics and <strong>Master's<strong> in Computer Science with a focus on <strong>Deep Learning<strong>. My research aims to collect and study data from histopathological and clinical skin lesions.
